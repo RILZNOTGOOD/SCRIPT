@@ -1,0 +1,9 @@
+ if game.PlaceId == 14400545236 then
+ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+ local Window = OrionLib:MakeWindow({Name = "RilzNotGood", HidePremium = false, SaveConfig = true, ConfigFolder = "Rilz Hub"})
+
+
+
+
+end
+ OrionLib:Init()
